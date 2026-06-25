@@ -488,6 +488,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://buywhere.ai/favicon.ico" height="14" alt="BuyWhere Logo" /> **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Product search and price comparison across 11M+ products in SEA and US markets with real-time pricing, availability, and shipping information.
+
 ## 📦 <a name="data-platforms"></a>Data Platforms
 
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
