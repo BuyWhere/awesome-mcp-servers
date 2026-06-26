@@ -485,6 +485,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
+- <img src="https://buywhere.ai/favicon.ico" height="14" alt="BuyWhere Logo" /> **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Real-time product search and price comparison MCP server for AI agents. 150M+ products / 86K+ merchants across Shopee, Lazada, Amazon, Walmart, and 20+ retailers in Singapore, SEA, and US. 7 tools (`search_products`, `get_product`, `compare_products`, `find_best_price`, `get_deals`, `list_categories`, `find_similar`). Free API key (3-second `POST /v1/auth/register`, no signup). Streamable-HTTP at `https://api.buywhere.ai/mcp`, stdio via `npx @buywhere/mcp-server`. Published on the MCP Registry as `io.github.BuyWhere/buywhere-mcp@1.0.5`.
 
 <br />
 
