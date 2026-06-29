@@ -313,6 +313,7 @@ Web fetching, scraping, and search.
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
+- BuyWhere — https://github.com/BuyWhere/buywhere-mcp - Cross-border e-commerce product search and price comparison for AI agents. Search 11M+ products across Singapore, SEA, and US markets.
 ---
 
 ## Category: Location Services (🗺️)
